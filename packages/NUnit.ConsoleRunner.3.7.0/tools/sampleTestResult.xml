@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="3" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.7.0.0" clr-version="4.0.30319.42000" start-time="2018-01-20 01:06:40Z" end-time="2018-01-20 01:07:05Z" duration="25.356514">
+  <command-line><![CDATA[nunit3-console.exe  /result:sampleTestResult.xml  "c:\Users\Benjamin\source\repos\Selenium Tutorial\TestFramework\bin\Debug\TestFramework.dll" --test="TestFramework.TestSuite.LetsCodeTest"]]></command-line>
+  <filter>
+    <test>TestFramework.TestSuite.LetsCodeTest</test>
+  </filter>
+  <test-suite type="Assembly" id="0-1005" name="TestFramework.dll" fullname="c:\Users\Benjamin\source\repos\Selenium Tutorial\TestFramework\bin\Debug\TestFramework.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-01-20 01:06:41Z" end-time="2018-01-20 01:07:05Z" duration="24.628010" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.9.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.16299.0" platform="Win32NT" cwd="c:\Users\Benjamin\source\repos\Selenium Tutorial\packages\NUnit.ConsoleRunner.3.7.0\tools" machine-name="ASUSNB01" user="Benjamin" user-domain="AsusNB01" culture="en-GB" uiculture="en-GB" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="c:\Users\Benjamin\source\repos\Selenium Tutorial\packages\NUnit.ConsoleRunner.3.7.0\tools" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="7972" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1006" name="TestFramework" fullname="TestFramework" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-01-20 01:06:41Z" end-time="2018-01-20 01:07:05Z" duration="24.603001" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestSuite" id="0-1007" name="TestSuite" fullname="TestFramework.TestSuite" runstate="Runnable" testcasecount="3" result="Passed" start-time="2018-01-20 01:06:41Z" end-time="2018-01-20 01:07:05Z" duration="24.601976" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="0-1000" name="LetsCodeTest" fullname="TestFramework.TestSuite.LetsCodeTest" classname="TestFramework.TestSuite.LetsCodeTest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2018-01-20 01:06:41Z" end-time="2018-01-20 01:07:05Z" duration="24.594433" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+          <test-case id="0-1002" name="Selected" fullname="TestFramework.TestSuite.LetsCodeTest.Selected" methodname="Selected" classname="TestFramework.TestSuite.LetsCodeTest" runstate="Runnable" seed="1038679176" result="Passed" start-time="2018-01-20 01:06:41Z" end-time="2018-01-20 01:06:59Z" duration="18.386211" asserts="0">
+            <output><![CDATA[BMW
+Benz
+Honda
+parent window is: CDwindow-(79815052999834F0AF06DC22D5ABCED8)
+2
+all window handles: CDwindow-(79815052999834F0AF06DC22D5ABCED8)
+all window handles: CDwindow-(6B655346488413D42CBC88CE3CE31B31)
+]]></output>
+          </test-case>
+          <test-case id="0-1001" name="TestMethod1" fullname="TestFramework.TestSuite.LetsCodeTest.TestMethod1" methodname="TestMethod1" classname="TestFramework.TestSuite.LetsCodeTest" runstate="Runnable" seed="63149629" result="Passed" start-time="2018-01-20 01:06:59Z" end-time="2018-01-20 01:07:05Z" duration="5.813023" asserts="0" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

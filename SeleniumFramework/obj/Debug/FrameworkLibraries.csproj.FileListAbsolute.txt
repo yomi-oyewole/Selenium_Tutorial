@@ -1,0 +1,13 @@
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\FrameworkLibraries.dll
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\FrameworkLibraries.pdb
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\WebDriver.dll
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\WebDriver.xml
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\obj\Debug\FrameworkLibraries.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\obj\Debug\FrameworkLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\obj\Debug\FrameworkLibraries.dll
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\obj\Debug\FrameworkLibraries.pdb
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\ExtentReports.dll
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\log4net.dll
+C:\Users\Benjamin\source\repos\Selenium Tutorial\SeleniumFramework\bin\Debug\log4net.xml

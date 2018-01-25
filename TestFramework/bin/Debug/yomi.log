@@ -1,0 +1,609 @@
+2017-12-28 12:32:07,235 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:32:07,271 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:32:13,797 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:32:18,024 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:39:40,647 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:39:40,687 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:39:47,209 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:39:51,443 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:41:44,600 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:41:44,639 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:41:51,185 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:41:55,422 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:49:16,193 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:49:16,235 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:49:16,318 INFO FrameworkLibraries.Libraries.TestInit - Items in the listBMW
+2017-12-28 12:49:16,330 INFO FrameworkLibraries.Libraries.TestInit - Items in the listBenz
+2017-12-28 12:49:16,342 INFO FrameworkLibraries.Libraries.TestInit - Items in the listHonda
+2017-12-28 12:49:22,782 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:49:27,011 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:51:24,153 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:51:24,196 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:51:24,284 INFO FrameworkLibraries.Libraries.TestInit - Items in the listHonda
+2017-12-28 12:51:30,712 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:51:34,935 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:53:05,116 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:53:05,153 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:53:05,223 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-28 12:53:05,235 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-28 12:53:05,246 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-28 12:53:11,697 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:53:15,899 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:57:02,875 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-28 12:57:02,908 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-28 12:57:02,985 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-28 12:57:03,000 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-28 12:57:03,013 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-28 12:57:09,449 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-28 12:57:13,679 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-28 12:57:14,103 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-28 12:57:14,421 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:03:44,868 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:03:44,944 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:03:45,019 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:03:45,031 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:03:45,042 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:03:51,541 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:03:55,821 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:03:56,243 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:03:56,540 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:05:08,836 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:05:08,876 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:05:08,955 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:05:08,968 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:05:08,981 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:05:15,434 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:05:19,779 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:05:20,195 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:05:20,499 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:17:12,268 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:17:12,295 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:17:12,404 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:17:12,427 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:17:12,451 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:17:18,599 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:17:23,958 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:17:24,067 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:17:24,329 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:21:47,739 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:21:47,767 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:21:47,868 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:21:47,890 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:21:47,915 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:21:54,066 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:21:59,486 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:21:59,590 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:21:59,807 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:43:56,428 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:43:56,457 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:45:31,214 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:45:31,242 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:45:31,445 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:45:31,468 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:45:31,491 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:45:37,641 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:45:42,989 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:45:43,147 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:45:43,370 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:53:50,092 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:53:50,107 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:53:50,205 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:53:50,228 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:53:50,251 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:53:56,389 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:54:01,730 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:54:01,830 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:54:02,023 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 00:57:01,611 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 00:57:01,626 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 00:57:01,719 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 00:57:01,742 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 00:57:01,766 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 00:57:07,900 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 00:57:13,291 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 00:57:13,384 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 00:57:13,602 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 01:00:49,551 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 01:00:49,579 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 01:00:49,668 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 01:00:49,691 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 01:00:49,714 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 01:00:55,852 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 01:01:01,176 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 01:01:01,305 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 01:01:01,499 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 01:05:09,287 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 01:05:09,302 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 01:06:06,648 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 01:06:06,663 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 01:09:24,646 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 01:09:24,661 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 01:09:24,753 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 01:09:24,776 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 01:09:24,799 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 01:09:30,942 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 01:09:36,314 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 01:09:36,415 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 01:09:36,634 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 01:13:26,521 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 01:13:26,535 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 01:13:26,627 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 01:13:26,650 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 01:13:26,672 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 01:13:32,811 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 01:13:38,144 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 01:13:38,278 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 01:13:38,492 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 02:03:36,115 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 02:03:36,137 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 02:03:36,228 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 02:03:36,251 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 02:03:36,274 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 02:03:42,409 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 02:03:47,722 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 02:03:47,860 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 02:03:48,068 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 02:08:14,985 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 02:08:15,015 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 02:08:15,108 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 02:08:15,132 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 02:08:15,158 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 02:08:21,287 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 02:08:26,655 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 02:08:26,758 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 02:08:26,950 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2017-12-30 02:13:28,065 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2017-12-30 02:13:28,086 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2017-12-30 02:13:28,173 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2017-12-30 02:13:28,196 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2017-12-30 02:13:28,219 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2017-12-30 02:13:34,365 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2017-12-30 02:13:39,747 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2017-12-30 02:13:39,838 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2017-12-30 02:13:40,059 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2018-01-03 13:38:06,992 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2018-01-03 13:38:07,009 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2018-01-03 13:38:07,096 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2018-01-03 13:38:07,122 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2018-01-03 13:38:07,145 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2018-01-03 13:38:13,300 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2018-01-03 13:38:18,659 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2018-01-03 13:38:18,817 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2018-01-03 13:38:19,079 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2018-01-03 14:03:55,453 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2018-01-03 14:03:55,479 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2018-01-03 14:03:55,572 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2018-01-03 14:03:55,595 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2018-01-03 14:03:55,620 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2018-01-03 14:04:01,770 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2018-01-03 14:04:07,122 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2018-01-03 14:04:07,251 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2018-01-03 14:04:07,490 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2018-01-03 15:33:34,301 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2018-01-03 15:33:34,321 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2018-01-03 15:33:34,404 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2018-01-03 15:33:34,436 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2018-01-03 15:33:34,456 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2018-01-03 15:33:40,606 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2018-01-03 15:33:45,912 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2018-01-03 15:33:46,004 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2018-01-03 15:33:46,225 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2018-01-03 15:35:43,077 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2018-01-03 15:35:43,097 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2018-01-03 15:35:43,187 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2018-01-03 15:35:43,211 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2018-01-03 15:35:43,235 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2018-01-03 15:35:49,384 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2018-01-03 15:35:54,719 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2018-01-03 15:35:54,816 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2018-01-03 15:35:55,037 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2018-01-03 15:41:39,027 INFO FrameworkLibraries.Libraries.TestInit - Opening browser...
+2018-01-03 15:41:39,043 INFO FrameworkLibraries.Libraries.TestInit - initializing practicepage....
+2018-01-03 15:41:39,137 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: BMW
+2018-01-03 15:41:39,157 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Benz
+2018-01-03 15:41:39,181 INFO FrameworkLibraries.Libraries.TestInit - Items in the list: Honda
+2018-01-03 15:41:45,335 INFO FrameworkLibraries.Libraries.TestInit - switched to new window
+2018-01-03 15:41:50,647 INFO FrameworkLibraries.Libraries.TestInit - enters values into search fields
+2018-01-03 15:41:50,749 INFO FrameworkLibraries.Libraries.TestInit - switch back to default window
+2018-01-03 15:41:50,996 WARN FrameworkLibraries.Libraries.TestInit - quiting all browsers
+2018-01-03 16:59:46,898 WARN FrameworkLibraries.Libraries.TestInit - Quiting browser drivers..
+2018-01-03 17:00:41,949 INFO FrameworkLibraries.Libraries.TestInit - dddddddddddddddddddddd
+2018-01-03 17:00:42,123 WARN FrameworkLibraries.Libraries.TestInit - Quiting browser drivers..
+2018-01-03 17:26:07,467 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-03 17:26:07,623 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-03 17:31:47,043 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-03 17:31:47,239 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-03 17:43:10,358 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-03 17:43:10,565 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-03 17:44:19,110 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-03 17:44:19,294 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-03 17:45:08,364 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-03 17:45:08,543 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-03 18:13:49,780 INFO [TestFramework.TestSuite.LetsCodeTest] - dddddddddddddddddddddd
+2018-01-03 18:13:49,948 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-03 18:24:00,925 INFO [FrameworkLibraries.Libraries.Log] - dddddddddddddddddddddd
+2018-01-03 18:24:01,095 WARN [FrameworkLibraries.Libraries.Log] - Quiting browser drivers..
+2018-01-03 18:24:58,600 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-03 18:24:58,784 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:48:26,785 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:48:32,667 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-11 21:48:32,844 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:48:38,296 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-11 21:48:38,309 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-11 21:48:38,396 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-11 21:48:38,438 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-11 21:48:38,464 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-11 21:48:44,617 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-11 21:48:49,934 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-11 21:48:50,063 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-11 21:48:50,300 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-11 21:50:20,707 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:50:26,179 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-11 21:50:26,331 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:50:31,380 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-11 21:50:31,394 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-11 21:50:31,492 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-11 21:50:31,519 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-11 21:50:31,561 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-11 21:50:37,696 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-11 21:50:43,035 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-11 21:50:43,139 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-11 21:50:43,370 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-11 21:51:44,789 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:51:50,233 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-11 21:51:50,387 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-11 21:51:55,951 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-11 21:51:55,965 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-11 21:51:56,072 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-11 21:51:56,104 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-11 21:51:56,136 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-11 21:52:02,279 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-11 21:52:07,627 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-11 21:52:07,709 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-11 21:52:07,961 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:28:11,542 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:28:16,942 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:28:17,125 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:28:22,330 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:28:22,346 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:28:22,438 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:28:22,466 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:28:22,494 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:28:28,635 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:28:33,929 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:28:34,080 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:28:34,320 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:35:32,117 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:35:32,161 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:35:32,269 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:35:32,301 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:35:32,337 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:35:38,491 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:35:43,851 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:35:43,952 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:35:44,177 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:36:37,972 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:36:43,182 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:36:43,337 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:36:48,946 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:36:48,962 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:36:49,058 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:36:49,086 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:36:49,114 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:36:55,264 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:37:00,570 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:37:00,699 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:37:00,930 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:39:18,470 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:39:23,920 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:39:24,080 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:39:29,554 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:39:29,570 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:39:29,661 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:39:29,689 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:39:29,717 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:39:35,875 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:39:41,199 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:39:41,338 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:39:41,573 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:43:07,728 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:43:07,772 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:43:07,886 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:43:07,915 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:43:07,942 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:43:14,088 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:43:19,444 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:43:19,540 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:43:19,777 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:44:11,105 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:44:16,456 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:44:16,616 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:44:21,892 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:44:21,908 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:44:22,004 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:44:22,031 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:44:22,057 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:44:28,217 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:44:33,528 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:44:33,651 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:44:33,903 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:47:45,199 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:47:50,549 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:47:50,699 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:47:55,776 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:47:55,788 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:47:55,881 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:47:55,897 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:47:55,938 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:48:02,090 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:48:07,440 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:48:07,526 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:48:07,783 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:54:52,370 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:54:57,772 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:54:57,932 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:55:03,563 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:55:03,579 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:55:03,671 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:55:03,699 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:55:03,727 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:55:09,855 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:55:15,153 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:55:15,267 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:55:15,504 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:57:05,542 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:57:05,590 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:57:05,698 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:57:05,726 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:57:05,754 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:57:11,929 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:57:17,264 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:57:17,364 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:57:17,604 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:58:18,214 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 20:58:18,266 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 20:58:18,376 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 20:58:18,404 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 20:58:18,432 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 20:58:24,588 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 20:58:29,952 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 20:58:30,056 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 20:58:30,294 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 20:59:51,550 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 20:59:57,043 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-17 20:59:57,204 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-17 21:00:02,484 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 21:00:02,504 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 21:00:02,600 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 21:00:02,629 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 21:00:02,657 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 21:00:08,810 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 21:00:14,128 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 21:00:14,251 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 21:00:14,504 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 21:11:24,025 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-17 21:11:24,072 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-17 21:11:24,182 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-17 21:11:24,210 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-17 21:11:24,238 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-17 21:11:30,392 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-17 21:11:35,771 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-17 21:11:35,886 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-17 21:11:36,135 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-17 21:12:47,311 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:21:14,674 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:21:20,491 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:21:20,702 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:21:25,889 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:21:25,909 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:21:26,005 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:21:26,033 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:21:26,060 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:21:32,174 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 21:21:37,442 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 21:21:37,532 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 21:21:37,705 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-18 21:26:54,247 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:26:59,679 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:26:59,840 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:27:05,695 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:27:05,714 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:27:05,812 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:27:05,840 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:27:05,868 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:27:11,983 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 21:27:17,354 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 21:27:17,420 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 21:27:17,596 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-18 21:29:02,364 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:29:08,180 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:29:08,587 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:29:14,059 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:29:14,084 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:29:14,172 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:29:14,213 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:29:14,241 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:29:20,389 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 21:29:25,729 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 21:29:25,818 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 21:29:26,004 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-18 21:31:08,050 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:31:08,498 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:34:40,070 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:34:40,491 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:37:18,723 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:37:19,137 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:38:15,521 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:38:15,950 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:39:13,237 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:39:13,647 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:39:50,294 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:39:55,674 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:39:56,052 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:40:02,301 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:40:02,320 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:40:02,416 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:40:02,436 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:40:02,476 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:40:08,638 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 21:40:13,896 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 21:40:13,981 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 21:40:14,310 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-18 21:45:22,244 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:45:22,301 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:45:22,413 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:45:22,441 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:45:22,467 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:46:23,392 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:46:23,441 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:46:23,554 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:46:23,584 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:46:23,612 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:48:33,217 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:48:38,779 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:48:39,165 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:48:44,697 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:48:44,715 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:48:44,826 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:48:44,853 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:48:44,882 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:48:51,013 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 21:48:56,373 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 21:48:56,463 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 21:48:56,633 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-18 21:54:44,056 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:54:49,719 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 21:54:50,089 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 21:54:55,327 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 21:54:55,340 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 21:54:55,439 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 21:54:55,467 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 21:54:55,496 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 21:55:01,618 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 21:55:06,949 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 21:55:07,035 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 21:55:07,202 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-18 22:20:19,978 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 22:20:25,371 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-18 22:20:25,769 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-18 22:20:31,223 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-18 22:20:31,243 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-18 22:20:31,339 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-18 22:20:31,367 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-18 22:20:31,396 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-18 22:20:37,521 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-18 22:20:42,899 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-18 22:20:42,978 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-18 22:20:43,137 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-19 23:46:06,809 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-19 23:46:06,904 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-19 23:46:43,943 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-19 23:46:43,991 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-19 23:46:44,102 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-19 23:46:44,129 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-19 23:46:44,157 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-19 23:46:50,348 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-19 23:49:46,817 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-19 23:51:31,352 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-19 23:51:31,399 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-19 23:51:31,512 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-19 23:51:31,541 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-19 23:51:31,571 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-19 23:56:20,424 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 00:00:29,238 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 00:00:29,302 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 00:03:15,822 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 00:03:15,876 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 00:11:15,771 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 00:14:54,164 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 00:14:54,211 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 00:14:54,322 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 00:14:54,350 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 00:14:54,376 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 00:17:05,724 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 00:17:05,771 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 00:17:05,885 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 00:17:05,914 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 00:17:05,943 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 00:21:15,355 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 00:21:20,819 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-20 00:21:21,199 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 00:21:26,436 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 00:21:26,455 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 00:21:26,553 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 00:21:26,582 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 00:21:26,610 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 00:21:32,736 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-20 00:21:38,057 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-20 00:21:38,147 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-20 00:21:38,333 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-20 00:22:28,622 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 00:22:28,675 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 00:22:28,788 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 00:22:28,817 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 00:22:28,845 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 00:22:34,974 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-20 00:22:40,284 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-20 00:22:40,389 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-20 00:22:40,568 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-20 01:31:40,746 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 01:31:44,136 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 01:31:47,273 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 01:31:47,303 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 01:38:52,580 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 01:38:52,635 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 01:38:52,761 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 01:38:52,789 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 01:38:52,819 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 01:38:58,992 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-20 01:39:04,318 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-20 01:39:04,453 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-20 01:39:04,715 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-20 01:40:47,407 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 01:40:47,508 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 01:44:38,746 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 01:44:38,802 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 01:44:38,914 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 01:44:38,942 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 01:44:38,972 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 01:44:45,130 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-20 01:44:50,486 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-20 01:44:50,630 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-20 01:44:50,891 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-20 01:47:01,586 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 01:47:01,653 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 01:47:01,773 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 01:47:01,802 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 01:47:01,832 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 01:47:07,977 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-20 01:47:13,355 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-20 01:47:13,493 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-20 01:47:13,768 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-20 01:48:34,554 INFO [FrameworkLibraries.Libraries.TestInit] - Opening browser...
+2018-01-20 01:48:34,619 INFO [FrameworkLibraries.Libraries.TestInit] - initializing practicepage....
+2018-01-20 01:48:34,749 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: BMW
+2018-01-20 01:48:34,785 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Benz
+2018-01-20 01:48:34,818 INFO [FrameworkLibraries.Libraries.TestInit] - Items in the list: Honda
+2018-01-20 01:48:40,986 INFO [FrameworkLibraries.Libraries.TestInit] - switched to new window
+2018-01-20 01:48:46,333 INFO [FrameworkLibraries.Libraries.TestInit] - enters values into search fields
+2018-01-20 01:48:46,487 INFO [FrameworkLibraries.Libraries.TestInit] - switch back to default window
+2018-01-20 01:48:46,788 WARN [FrameworkLibraries.Libraries.TestInit] - quiting all browsers
+2018-01-20 02:06:59,717 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:07:05,196 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-20 02:07:05,598 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:09:07,605 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-20 02:09:08,042 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:15:52,306 INFO [FrameworkLibraries.Libraries.TestInit] - dddddddddddddddddddddd
+2018-01-20 02:15:52,579 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:19:33,969 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:35:50,386 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:38:12,055 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:38:46,814 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:39:53,107 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:42:41,139 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:43:57,124 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:45:33,321 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:50:01,313 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:51:24,850 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:52:59,092 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
+2018-01-20 02:53:33,248 WARN [FrameworkLibraries.Libraries.TestInit] - Quiting browser drivers..
